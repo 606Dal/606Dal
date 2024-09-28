@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @606Dal
 <br>
-📙 Stack
+📙 My Stack
 
 <p>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"/>
@@ -17,3 +17,4 @@
  </p>  
 <br><br>
 
+➡ My blog : https://blog.naver.com/mi_syel
